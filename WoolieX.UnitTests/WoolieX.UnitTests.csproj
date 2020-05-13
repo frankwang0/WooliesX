@@ -18,7 +18,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DomainModel\" />
-    <Folder Include="Usecases\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="ShoppingHistoryTests.cs" />
